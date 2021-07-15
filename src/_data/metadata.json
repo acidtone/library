@@ -1,0 +1,21 @@
+{
+  "title": "Resources and Terminology for Coders",
+  "url": "https://acidtone.github.io/library",
+  "language": "en",
+  "description": "A curated list of coding terminology, references and things.",
+  "feed": {
+    "subtitle": "",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://acidtone.github.io/library/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://acidtone.github.io/library/feed/feed.json"
+  },
+  "author": {
+    "name": "Tony Grimes",
+    "email": "hello@tonygrimes.com",
+    "url": "https://github.io/acidtone"
+  }
+}
