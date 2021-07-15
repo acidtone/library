@@ -5,6 +5,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const yaml = require("js-yaml");
 
 module.exports = function(eleventyConfig) {
   // Add plugins
@@ -72,6 +73,10 @@ module.exports = function(eleventyConfig) {
     permalinkSymbol: "#"
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // Add support for yaml data
+  // https://www.11ty.dev/docs/data-custom/#yaml
+  eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
 
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
