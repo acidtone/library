@@ -20,7 +20,6 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
     - Skim: [UI Design Patterns](http://ui-patterns.com/patterns)
 - Mental Models
   - Watch: [UX Design Basics - Mental Models](https://www.youtube.com/watch?v=9gM8K4ooavY) by Jamal Nichols
-  - Find an example of product design (a handy tool, piece of equipment, etc) in your immediate(ish) area (home, office, vehicle, etc). You will be discussing your find in a group of 3 or 4 tomorrow.
 - Mobile UX
   - Watch: The first 7 minutes of [Beyond Media Queries](https://vimeo.com/235428198) by Michael Riethmuller (you can stop at Fluid Typography)
   - Read: [Designing Card-Based User Interfaces](https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/)
@@ -30,7 +29,7 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - Watch: [JAWS Screen Reader Demo](https://youtu.be/2PMuBQ7LyOw) by [Blind Inspirationcast](https://www.youtube.com/channel/UCKHMrCSX3thkIsb3oDD_aJw)
 
 ### Performance
-1. Performance
+- Performance
   - Read: [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools)
   - Read: [First Contentful Paint (FCP) and First Meaningful Paint (FMP) Explained](https://www.acmethemes.com/blog/first-contentful-paint-and-first-meaningful-paint/)
 
