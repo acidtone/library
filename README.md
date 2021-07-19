@@ -29,9 +29,8 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - Watch: [JAWS Screen Reader Demo](https://youtu.be/2PMuBQ7LyOw) by [Blind Inspirationcast](https://www.youtube.com/channel/UCKHMrCSX3thkIsb3oDD_aJw)
 
 ### Performance
-- Performance
-  - Read: [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools)
-  - Read: [First Contentful Paint (FCP) and First Meaningful Paint (FMP) Explained](https://www.acmethemes.com/blog/first-contentful-paint-and-first-meaningful-paint/)
+- Read: [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools)
+- Read: [First Contentful Paint (FCP) and First Meaningful Paint (FMP) Explained](https://www.acmethemes.com/blog/first-contentful-paint-and-first-meaningful-paint/)
 
 ### Copyright and Licensing
   - Read: [Fair dealing at UVic](https://www.uvic.ca/library/featured/copyright/fairdealing/index.php)
