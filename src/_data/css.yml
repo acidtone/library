@@ -1,0 +1,30 @@
+- title: Why Is CSS So Weird?
+  author: Miriam Suzanne
+  link: https://youtu.be/aHUtMbJw8iA
+  type: video
+  tags: css, html, getting started, standards
+- title: Reading color hex codes
+  author: David DeSandro
+  link: https://youtu.be/eqZqx6lRPe0
+  type: video
+  tags: colour, css, getting started
+- title: A Complete Guide to Flexbox
+  author: Chris Coyier
+  link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  type: reference
+  tags: css, flexbox
+- title: A Complete Guide to Grid
+  author: Chris House 
+  link: https://css-tricks.com/snippets/css/complete-guide-grid/
+  type: reference
+  tags: css, grid
+- title: What the Flexbox?!
+  author: We Bos
+  link: https://flexbox.io/
+  type: course
+  tags: css, flexbox
+# - title: 
+#   author: 
+#   link: 
+#   type: 
+#   tags: 
