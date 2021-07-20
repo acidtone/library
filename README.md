@@ -28,16 +28,23 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - Read: [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
   - Watch: [JAWS Screen Reader Demo](https://youtu.be/2PMuBQ7LyOw) by [Blind Inspirationcast](https://www.youtube.com/channel/UCKHMrCSX3thkIsb3oDD_aJw)
 
+---
+
 ### Performance
 - Read: [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools)
 - Read: [First Contentful Paint (FCP) and First Meaningful Paint (FMP) Explained](https://www.acmethemes.com/blog/first-contentful-paint-and-first-meaningful-paint/)
 
+---
+
 ### Copyright and Licensing
-  - Read: [Fair dealing at UVic](https://www.uvic.ca/library/featured/copyright/fairdealing/index.php)
-  - Read: [Understanding The Copyright License](https://www.smashingmagazine.com/2011/06/understanding-copyright-and-licenses/)
-  - Watch/skim: [YouTuber Extortion? MxR Plays v. Jukin](https://youtu.be/5A_i-sB9H0Q)
+  - Read: [Fair dealing at UVic](https://www.uvic.ca/library/featured/copyright/fairdealing/index.php) (Canada)
+  - Read: [Understanding The Copyright License](https://www.smashingmagazine.com/2011/06/understanding-copyright-and-licenses/) (US)
+  - Watch/skim: [YouTuber Extortion? MxR Plays v. Jukin](https://youtu.be/5A_i-sB9H0Q) (US)
   - Skim: [Creative Commons Licenses](https://creativecommons.org/about/cclicenses/)
   - Skim: [Which License Should I Use? MIT vs. Apache vs. GPL](https://exygy.com/blog/which-license-should-i-use-mit-vs-apache-vs-gpl/)
+
+  ---
+
 ### Git and Github
 - Markdown
     - Read: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
@@ -46,6 +53,9 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - Read: [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - Command Line
   - Reference: [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+
+---
+
 ### Tools
 - Browsers
   - Watch: [Firefox Accessibility Inspector](https://youtu.be/7mqqgIxX_NU)
@@ -59,6 +69,8 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - [Stack Overflow](https://stackoverflow.com/)
 - Misc
   - [Clippy](https://bennettfeely.com/clippy/) clip path tool
+
+---
 
 ### HTML/CSS
 - Courses
@@ -169,3 +181,56 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - Read: [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) on MDN
   - Read: [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care) on Google Developer
   - Watch: [Lea Verou on CSS Variable Secrets at SmashingConf Toronto 2018](https://vimeo.com/292466625)
+
+---
+
+### Raster Images
+- Raster image editing
+  - [Photo Editing Terms Explained Simply](https://www.picmonkey.com/blog/photo-editing-terms-you-dont-know)
+  - [Digital Terminology and Essential Elements of Photo-Editing](https://extension.uga.edu/publications/detail.html?number=B1254-2&title=Part%202:%20Digital%20Terminology%20and%20Essential%20Elements%20of%20Photo-Editing)
+- Image formats and Compression
+  - Watch: [Image compression deep-dive](https://youtu.be/F1kYBnY6mwg) by Jake and Surma
+  - Read: [`picture` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+  - Reference: [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
+  - Tool: [Squoosh.app](https://squoosh.app/)
+- Responsive images
+  - MDN: [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+  - Read: [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+  - Reference: [`srcset` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset)
+  - Read: [Responsive Images: If you’re just changing resolutions, use `srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
+  - Watch: [Figuring Out Responsive Images](https://css-tricks.com/video-screencasts/133-figuring-responsive-images/)
+  - Read: [Don’t use `<picture>` (most of the time)](https://cloudfour.com/thinks/dont-use-picture-most-of-the-time/)
+  - Optional: [`sizes` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-sizes)
+- Image performance
+  - Watch: [Do This to Improve Image Loading on Your Website](https://youtu.be/4-d_SoCHeWE)
+- `image-set()`
+  - Read: [Is there a srcset equivalent for css background image](https://stackoverflow.com/questions/26801745/is-there-a-srcset-equivalent-for-css-background-image) on Stack Overflow
+  - Reference: [`image-set()` property](https://developer.mozilla.org/en-US/docs/Web/CSS/image-set)
+- Native lazy loading images
+  - Watch: [Lazy loading is too easy now](https://youtu.be/AActXSWxsRo) by Kevin Powell
+  - Read: [`loading` image attribute](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading#Images_and_iframes) by MDN
+  - Read: [Native Lazy Loading](https://css-tricks.com/native-lazy-loading/) by CSS Tricks
+
+---
+
+### Vector Graphics
+- Scalable Vector Graphics
+    - Watch: [A beginners guide to SVG: Part 1](https://youtu.be/ZJSCl6XEdP8) by Kevin Powell. You can skip Part 2 but watch [Part 3](https://youtu.be/TBYJ2V1jAlA) if you're interested.
+- Optimizing SVGs
+    - Tool: [SVG OMG](https://jakearchibald.github.io/svgomg/)
+    - Watch: [How to Optimize SVGs from your editor](https://youtu.be/cWh0de8IhX4?t=1184) by Kevin Powell (about 19 minutes into a longer video)
+    - Advanced: [Understanding and Manually Improving SVG Optimization](https://css-tricks.com/understanding-and-manually-improving-svg-optimization/)
+- SVG in HTML Documents
+    - Read: [Using SVG](https://css-tricks.com/using-svg/) on CSS-Tricks
+    - Read: [How to Scale SVG](https://css-tricks.com/scale-svg/)
+    - [How to Work with SVGs in Figma, HTML, and CSS](https://youtu.be/R0oz8DsxeYU) by Build UX
+    - Optional (but fun): [SVG Can Do That?!](https://youtu.be/ADXX4fmWHbo) by Sarah Drasner   
+- Vector image editing
+  - Figma
+    - Reference: [Figma Tutorial Video Playlist](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
+      - Watch: [Setup account, teams, projects, and files](https://youtu.be/hrHL2VLMl7g)
+        - Create a free account and set up a Team.
+      - Watch: [Get a tour of the Editor](https://youtu.be/DSrbwCrEIII)
+      - Watch: Any other videos in this playlist that interest you.
+    - Watch: [Figma Drawing Tools Overview](https://webdesign.tutsplus.com/courses/using-figma-for-svg-design/lessons/drawing-tools-overview)
+    - [5 of your favorite Illustrator tools in Figma](https://medium.com/@saintasia/5-of-your-favorite-illustrator-tools-in-figma-a7c2aaa45d59)
