@@ -137,6 +137,10 @@ A starter repository showing how to build a blog with the [Eleventy](https://git
   - Watch: [Introduction to Resilient CSS – Part 1 of 7](https://youtu.be/u00FY9vADfQ)
   - Watch: [The Secrets of ‘Can I Use’ – Resilient CSS Part 2 of 7](https://youtu.be/WM_cKHH7bZ0)
   - Watch: [How Browsers Handle Errors in CSS – Resilient CSS Part 3 of 7](https://youtu.be/NJjlzxud4_M)
+  - Watch: [Unlocking the Power of CSS Overrides – Resilient CSS Part 4 of 7](https://youtu.be/0X6zrW2QW8Q)
+  - Watch: [The Magic of Feature Queries, Part 1 – Resilient CSS Part 5 of 7](https://youtu.be/T8uxmUQZsck)
+  - Watch: [The Magic of Feature Queries, Part 2 – Resilient CSS Part 6 of 7](https://youtu.be/7y-xfxC2jGA)
+  - Watch: [Making Your CSS Fail Excellently – Resilient CSS Part 7 of 7](https://youtu.be/X3xvMKgtB-c)
 - CSS Grid
   - Reference: [Grid by Example](https://gridbyexample.com)
     - [Examples](https://gridbyexample.com/examples/)
